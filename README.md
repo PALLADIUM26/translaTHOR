@@ -1,9 +1,11 @@
 # translaTHOR
 
-##a language translation project<br>
+## a language translation project<br>
 (still under progress)
 
 dataset from: https://ieee-dataport.org/open-access/supara-benchmark-benchmark-dataset-english-bangla-machine-translation
+
+## using 🤗 Transformers library
 
 resources:
  - https://huggingface.co/docs/transformers/en/model_doc/bert
