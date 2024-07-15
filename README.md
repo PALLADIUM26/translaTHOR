@@ -19,6 +19,7 @@
  - https://huggingface.co/sagorsarker/bangla-bert-base
  - https://huggingface.co/Helsinki-NLP/opus-mt-bn-en
 ### Files & Folders:
+ - <a href="https://github.com/PALLADIUM26/translaTHOR/blob/main/English_to_Bengali_1.ipynb">English_to_Bengali_1.ipynb</a> is the Notebook for the whole ML process - v1
  - <a href="https://github.com/PALLADIUM26/translaTHOR/blob/main/English_to_Bengali_0.ipynb">English_to_Bengali_0.ipynb</a> is the Notebook for the whole ML process - v0
  - <a href="https://github.com/PALLADIUM26/translaTHOR/blob/main/english_to_bengali_0.py">english_to_bengali_0.py</a> is the raw python file for the whole ML process - v0
  - <a href="https://github.com/PALLADIUM26/translaTHOR/tree/main/saved_model">saved_model</a> is the folder containing saved model for translating English to Bengali - v0
